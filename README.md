@@ -87,7 +87,7 @@ This capstone project demonstrates how **machine learning** can enhance sales fo
 With an RMSE of **0.18**, the **Random Forest model** provides actionable insights that empower businesses to make better **inventory, marketing, and resource allocation** decisions.
 
 ### 👩‍💻 Author
-**Rita Sebastian**  
+**Arockia Sebastian**  
 Data Analytics Capstone Project — 2025  
 
 ## 📜 License
